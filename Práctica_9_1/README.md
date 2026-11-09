@@ -70,7 +70,7 @@ El sistema utiliza **el mismo StandardScaler, K-Means y PCA entrenados con los d
 
 ## Abrir en Google Colab
 
-[Práctica 9 en Google Colab](https://colab.research.google.com/github/jr-0205/actividadesFany/blob/main/Pr%C3%A1ctica_9_1/Practica_9_IA_Colab.ipynb)
+[Práctica 9 en Google Colab](https://colab.research.google.com/github/jr-0205/actividades-fany/blob/main/Pr%C3%A1ctica_9_1/Practica_9_IA_Colab.ipynb)
 
 Después selecciona:
 

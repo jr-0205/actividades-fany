@@ -131,7 +131,7 @@ También se incluye `sistema_ventas.py` como versión independiente del mismo si
 
 Abre directamente el notebook:
 
-[Práctica 7 en Google Colab](https://colab.research.google.com/github/jr-0205/actividadesFany/blob/main/Pr%C3%A1ctica_7_1/Practica_7_IA_1P.ipynb)
+[Práctica 7 en Google Colab](https://colab.research.google.com/github/jr-0205/actividades-fany/blob/main/Pr%C3%A1ctica_7_1/Practica_7_IA_1P.ipynb)
 
 Después selecciona:
 
